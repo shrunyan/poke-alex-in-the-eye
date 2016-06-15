@@ -3,8 +3,10 @@
 const repl = require('repl')
 const replServer = repl.start()
 const cb = (answer) => {
-	switch (answer) {
+	switch (answer.toLowerCase()) {
+		case 'poke':
 		case 'poke alex':
+		case 'poke alex in the eye':
 			console.log('You poke Alex.')
 			break;
 		case 'look':
