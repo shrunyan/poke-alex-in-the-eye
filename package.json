@@ -7,5 +7,9 @@
     "start": "node index.js"
   },
   "author": "Stuart Runyan",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shrunyan/poke-alex-in-the-eye"
+  }
 }
