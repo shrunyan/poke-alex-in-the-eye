@@ -1,0 +1,11 @@
+{
+  "name": "poke-alex",
+  "version": "1.0.0",
+  "description": "Poke Alex in the Eye: The Text Adventure",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Stuart Runyan",
+  "license": "MIT"
+}
